@@ -9,7 +9,7 @@ authors:
 superuser: true
 
 # Role/position
-role: First-year PhD student at Chinese University of Hong Kong
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
@@ -17,15 +17,24 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am currently an incoming PhD student in CUHK. My focused area is statistics. This site is still under construction so a lot of material has not been put forward properly yet.
+bio: Welcome! My name is Dongrong Li. I am currently an incoming PhD student in CUHK(Chinese University of Hong Kong). My focused area is statistics. 
+
+I was born and raised in Guangzhou, a ciry in mainland China. In 2020, I graduated from Sun Yat-sen University as a Bachelor of Science. I majored in statistics during my undergraduate study.
+
+The site is still under construction, more features will be added in the following days. 
+
+(Updated on 2020.9.5)
 
 interests:
-- Still under construction...
+- Swimming
+- Tennis
+- Computer Programming
 
 education:
   courses:
   - course: PhD Student 
     institution: Chinese University of Hong Kong
+    year:2020-
   - course: Bachelor of Science in Statistics
     institution: Sun Yat-sen University
     year: 2016-2020
