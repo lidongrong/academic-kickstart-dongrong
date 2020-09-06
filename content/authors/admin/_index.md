@@ -1,6 +1,6 @@
----
 # Display name
-title: Dongrong Li
+title: Nelson Bighetti
+
 # Username (this should match the folder name)
 authors:
 - admin
@@ -9,27 +9,32 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Student in Statistics
+role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
-- name: Chinese University of Hong Kong
+- name: Stanford University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am currently a first-year PhD student in CUHK(Chinese University of Hong Kong)
+bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Still under construction...
+- Artificial Intelligence
+- Computational Linguistics
+- Information Retrieval
 
 education:
   courses:
-  - course: PhD Student 
-    institution: Chinese University of Hong Kong
-    year:2020-2024(estimated)
-  - course: Bachelor of Science in Statistics
-    institution: Sun Yat-sen University
-    year: 2016-2020
+  - course: PhD in Artificial Intelligence
+    institution: Stanford University
+    year: 2012
+  - course: MEng in Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    year: 2009
+  - course: BSc in Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -38,16 +43,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "1155151972@link.cuhk.edu.hk".
+  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: 
+  link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: 
+  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link:
+  link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -55,7 +60,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "1155151972@link.cuhk.edu.hk"
+email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -64,7 +69,6 @@ user_groups:
 - Visitors
 ---
 
-Welcome! My name is Dongrong Li. I am currently an incoming PhD student in CUHK(Chinese University of Hong Kong). My focused area is statistics. 
-I was born and raised in Guangzhou, a ciry in mainland China. In 2020, I graduated from Sun Yat-sen University as a Bachelor of Science. I majored in statistics during my undergraduate study.
-The site is still under construction, more features will be added in the upcoming days. 
-(Updated on 2020.9.5)
+Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
