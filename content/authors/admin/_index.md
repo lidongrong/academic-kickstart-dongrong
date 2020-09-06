@@ -67,9 +67,6 @@ user_groups:
 ---
 
 Welcome! My name is Dongrong Li. I am currently an incoming PhD student in CUHK(Chinese University of Hong Kong). My focused area is statistics. 
-
 I was born and raised in Guangzhou, a ciry in mainland China. In 2020, I graduated from Sun Yat-sen University as a Bachelor of Science. I majored in statistics during my undergraduate study.
-
 The site is still under construction, more features will be added in the upcoming days. 
-
 (Updated on 2020.9.5)
