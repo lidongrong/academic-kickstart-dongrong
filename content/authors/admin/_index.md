@@ -19,8 +19,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: I am currently a first-year PhD student in CUHK(Chinese University of Hong Kong)
 
-(Updated on 2020.9.5)
-
 interests:
 - Still under construction...
 
