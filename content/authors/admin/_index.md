@@ -26,15 +26,13 @@ The site is still under construction, more features will be added in the upcomin
 (Updated on 2020.9.5)
 
 interests:
-- Swimming
-- Tennis
-- Computer Programming
+- Still under construction...
 
 education:
   courses:
   - course: PhD Student 
     institution: Chinese University of Hong Kong
-    year:2020-
+    year:2020-2024(estimated)
   - course: Bachelor of Science in Statistics
     institution: Sun Yat-sen University
     year: 2016-2020
@@ -63,7 +61,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "1155151972@link.cuhk.edu.hk"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
