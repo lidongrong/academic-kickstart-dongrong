@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am currently a PhD student in CUHK(Chinese University of Hong Kong). My focused area is statistics.
+bio: I am currently a PhD student at Department of Statistics in CUHK(Chinese University of Hong Kong).
 
 interests:
 - Not declared yet.
@@ -66,8 +66,8 @@ user_groups:
 ---
 
 
-Welcome! My name is Dongrong Li. I am currently a PhD student at CUHK(Chinese University of Hong Kong) majoring in statistics.
+Welcome! My name is Dongrong Li. I am currently a PhD student at Department of Statistics in CUHK(Chinese University of Hong Kong).
 
 I was born and raised in Guangzhou, China. In 2020, I graduated from Sun Yat-sen University as a bachelor of science. I majored in statistics during my undergraduate study.
 
-This site is still under construction. More features will be added in the upcoming days.(Updated on 2020.9.5)
+Currently my research interests are **statistical machine learning**, **Missing Data Problem**, **Medical Data Analysis**, **Markov Chain Monte Carlo** and **Scalable Bayesian Inference**.
