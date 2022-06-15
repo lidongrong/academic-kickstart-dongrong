@@ -71,3 +71,5 @@ Welcome! My name is Dongrong Li. I am currently a PhD student at Department of S
 I was born and raised in Guangzhou, China. In 2020, I graduated from Sun Yat-sen University as a bachelor of science. I majored in statistics during my undergraduate study.
 
 Currently my research interests are **statistical machine learning**, **Missing Data Problem**, **Medical Data Analysis**, **Markov Chain Monte Carlo** and **Scalable Bayesian Inference**.
+
+Last updated on 2022.6.15
