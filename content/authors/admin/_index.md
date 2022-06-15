@@ -21,7 +21,12 @@ organizations:
 bio: I am currently a PhD student at Department of Statistics in CUHK(Chinese University of Hong Kong).
 
 interests:
-- Not declared yet.
+- Missing Data Problem
+- Statistical Machine Learning
+- Medical Data Analysis
+- Markov Chain Monte Carlo(MCMC)
+- Scalable Bayesian Inference
+- Parallel Computing
 
 education:
   courses:
